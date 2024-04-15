@@ -135,3 +135,15 @@ rules: {
     : package.json 에서 설치 확인 가능
 
 - App.js 초기화
+
+```js
+function App() {
+  return (
+    <div>
+      <h1>리액트 베이직</h1>
+    </div>
+  );
+}
+
+export default App;
+```
