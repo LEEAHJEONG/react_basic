@@ -2,7 +2,7 @@
 
 ## 5.1. 자바스크립트 배열의 map() 메서드
 
-- https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+- (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ## 5.2. 데이터 배열을 컴포넌트 배열로 반환하기
 
@@ -128,6 +128,6 @@ export default Main;
 
 ### 5.3.3. 데이터 제거 기능 구현하기
 
-- 각 항목을 더블클릭했을 때 화면에서 사라지는 기능 구현
+- 각 항목을 더블클릭했을 때 화면에서 사라지는 기g능 구현
 - 불변성을 유지 하면서 업데이트 filter 함수 사용
 - filter 함수는 배열에서 특정 조건을 만족하는 원소들만 분류
