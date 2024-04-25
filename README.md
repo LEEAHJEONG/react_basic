@@ -90,6 +90,7 @@ export default Axios;
 
 - https://newsapi.org/register
 - https://newsapi.org/s/south-korea-news-api
+- src/pages/Axions.js
 
 ```js
 import axios from "axios";
